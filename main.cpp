@@ -8,17 +8,19 @@
 //  2018L03 19:08.  Created in Xcode.
 //
 
+//  PREPROCESSOR
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
 using namespace std;
 
-
+//  DECLARATIONS
 long int a=0;
 long int b=1;
 long int c=0;
 long int i=1;
 
+//  MAIN
 int main(int argc, const char * argv[]) {
     // Fibonacci numbers
     
